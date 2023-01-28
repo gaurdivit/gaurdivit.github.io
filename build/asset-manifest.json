@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.bec702c5.css",
+    "main.js": "/react-gh-pages/static/js/main.1af7fc0b.js",
+    "static/media/wallpaper2.jpg": "/react-gh-pages/static/media/wallpaper2.26286632b86ed18aeb4b.jpg",
+    "static/media/wallpaper.jpg": "/react-gh-pages/static/media/wallpaper.af415ab19705b3ede7d5.jpg",
+    "static/media/div2.png": "/react-gh-pages/static/media/div2.c231ab2561f668efed8c.png",
+    "static/media/wallpaper4.jpg": "/react-gh-pages/static/media/wallpaper4.3553cfae65065476a43c.jpg",
+    "static/media/revicons.eot": "/react-gh-pages/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react-gh-pages/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/react-gh-pages/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/react-gh-pages/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/github.svg": "/react-gh-pages/static/media/github.22e65707326e3e1e37afd21c5334995a.svg",
+    "static/media/nav-icon1.svg": "/react-gh-pages/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.bec702c5.css.map": "/react-gh-pages/static/css/main.bec702c5.css.map",
+    "main.1af7fc0b.js.map": "/react-gh-pages/static/js/main.1af7fc0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec702c5.css",
+    "static/js/main.1af7fc0b.js"
+  ]
+}
